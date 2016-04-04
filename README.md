@@ -1,3 +1,3 @@
-weekly-scripts
+DroidScripts
 
-A script a week, keep the repeated away.
+DroidScripts, speeds up your android development.
